@@ -1,6 +1,6 @@
 #SETUP
 NAME		=	pipex
-CC			=	gcc
+CC			=	gcc -g
 FLAGS		=	-Wall -Wextra -Werror
 RM			=	rm -rf
 
