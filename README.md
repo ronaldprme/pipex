@@ -13,3 +13,6 @@ $> ./pipex infile "ls -l" "wc -l" outfile
 
 ```
 All errors like: wrong commands,  permission to files and etc, need be handle.
+
+git clone https://github.com/vfurmane/pipex-tester
+./run.sh
